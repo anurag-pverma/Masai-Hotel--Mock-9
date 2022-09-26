@@ -1,0 +1,81 @@
+{
+  "rooms": [
+    {
+      "category": "family",
+      "image_url": "https://cdn.pixabay.com/photo/2016/11/18/17/20/living-room-1835923__480.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "4",
+      "capacity": "5",
+      "cost": "299",
+      "booked": false,
+      "id": 1
+    },
+    {
+      "category": "duluxe",
+      "image_url": "https://media.istockphoto.com/photos/3d-rendering-beautiful-luxury-bedroom-suite-in-hotel-with-tv-picture-id1066999762?k=20&m=1066999762&s=612x612&w=0&h=BitPXyhBFZQHMfpC9ikX_DReVK6Rd28hH9pRoZW8YAs=",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "3",
+      "cost": "499",
+      "booked": false,
+      "id": 2
+    },
+    {
+      "category": "suit",
+      "image_url": "https://media.istockphoto.com/photos/modern-living-room-interior-with-air-conditioner-orange-sofa-and-picture-id1352177016?b=1&k=20&m=1352177016&s=170667a&w=0&h=Mec3QGI01I_jI0sBHHZJEW2LSFhbDZQLMg81PHfBp8A=",
+      "type_of_room": "Non-AC",
+      "bed_type": "Single",
+      "no_of_persons": "3",
+      "capacity": "4",
+      "cost": "199",
+      "booked": false,
+      "id": 3
+    },
+    {
+      "category": "duluxe",
+      "image_url": "https://m.lemontreehotels.com/CMSWebParts/MobileWebParts/showpropertyGalleryimage.ashx?Hid=586",
+      "type_of_room": "AC",
+      "bed_type": "Single",
+      "no_of_persons": "1",
+      "capacity": "2",
+      "cost": "599",
+      "booked": false,
+      "id": 4
+    },
+    {
+      "category": "suit",
+      "image_url": "https://www.zenrooms.com/img/social_share_room.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Single",
+      "no_of_persons": "1",
+      "capacity": "2",
+      "cost": "999",
+      "booked": false,
+      "id": 5
+    },
+    {
+      "category": "family",
+      "image_url": "https://assets-global.website-files.com/5c6d6c45eaa55f57c6367749/624b471bdf247131f10ea14f_61d31b8dbff9b500cbd7ed32_types_of_rooms_in_a_5-star_hotel_2_optimized_optimized.jpeg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "4",
+      "capacity": "6",
+      "cost": "1299",
+      "booked": false,
+      "id": 6
+    },
+    {
+      "category": "duluxe",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/5cdb058a5218470008b0b00f/Nobu-Ryokan-Malibu/0x0.jpg?format=jpg&height=1009&width=2000",
+      "type_of_room": "Non-AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "999",
+      "booked": false,
+      "id": 7
+    }
+  ]
+}
